@@ -42,8 +42,8 @@ The app expects a CSV file with the following columns:
 ## Methods
 - **Overlap Analysis**: Jaccard index and overlap coefficient
 - **Machine Learning**: Random Forest with feature engineering including:
- - Gene set enrichment scores
- - Pathway activation patterns
- - Marker specificity metrics
- - Expression level features
+   - Gene set enrichment scores
+   - Pathway activation patterns
+   - Marker specificity metrics
+   - Expression level features
 
